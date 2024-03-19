@@ -9,9 +9,10 @@
   overflow: hidden;
 }
 .espetto-cariocatabua-de-picanha-1 {
-  width: 100%;
+  width: 1440px;
   height: 565px;
   position: absolute;
+  left: calc(50% - 720px);
   top: calc(50% - 1948px);
   object-fit: cover;
 }
@@ -26,24 +27,16 @@
 .group {
   height: auto;
   position: absolute;
-  left: calc(50% - -628.06px);
+  left: calc(50% - -603.45px);
   top: calc(50% - 2007.07px);
   overflow: visible;
 }
 .vector {
-  width: 20px;
-  height: 26.96px;
+  width: 27px;
+  height: 29px;
   position: absolute;
-  left: calc(50% - -599px);
-  top: calc(50% - 2005.95px);
-  overflow: visible;
-}
-.vector2 {
-  width: 18px;
-  height: 28.08px;
-  position: absolute;
-  left: calc(50% - -657px);
-  top: calc(50% - 2007.07px);
+  left: calc(50% - -648px);
+  top: calc(50% - 2007px);
   overflow: visible;
 }
 .rectangle-2 {
@@ -156,11 +149,77 @@
   left: calc(50% - 720px);
   top: calc(50% - -1938px);
 }
-.vector3 {
-  width: 1049.66px;
-  height: 4002.09px;
+.vector2 {
+  width: 1043.44px;
+  height: 3335.55px;
   position: absolute;
   left: calc(50% - 509.25px);
-  top: calc(50% - 1998.45px);
+  top: calc(50% - 1331.91px);
   overflow: visible;
+}
+.sobre-n-s {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -160px);
+  top: calc(50% - 2007px);
+}
+.card-pio {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -286px);
+  top: calc(50% - 2007px);
+}
+.contato {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -403px);
+  top: calc(50% - 2007px);
+}
+.telefones-77-99957-7133-77-98126-8852-instagram-rsrestaurante {
+  color: #ffffff;
+  text-align: right;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -315px);
+  top: calc(50% - -1435px);
+  width: 261px;
+  height: 284px;
+}
+.rs-restauraunte-uma-experi-ncia-nica-um-sabor-que-vai-te-conquistar {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 295px);
+  top: calc(50% - 1765px);
+  width: 594px;
+  height: 152px;
+}
+.do-preparo-a-mesa-sua-experi-ncia-a-nossa-prioridade {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 295px);
+  top: calc(50% - 1556px);
+  width: 586px;
+  height: 56px;
 }
