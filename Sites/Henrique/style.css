@@ -198,19 +198,17 @@
   top: calc(50% - -454.5px);
 }
 .sebo-rio-de-janeiro-beta-de-aquarius-768-x-1024-1 {
-  width: 1454px;
+  width: 100%;
   height: 919px;
   position: absolute;
-  left: calc(50% - 734px);
   top: calc(50% - 1760.5px);
   object-fit: cover;
 }
 .rectangle-26 {
   background: rgba(75, 42, 10, 0.52);
-  width: 1440px;
+  width: 100%;
   height: 919px;
   position: absolute;
-  left: calc(50% - 734px);
   top: calc(50% - 1760.5px);
 }
 .rectangle-28 {
