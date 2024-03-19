@@ -20,10 +20,9 @@
   inset: 0;
 }
 .image-1 {
-  width: 1429.85px;
+  width: 100%;
   height: 703px;
   position: absolute;
-  left: calc(50% - 720px);
   top: calc(50% - 1352px);
   object-fit: cover;
 }
