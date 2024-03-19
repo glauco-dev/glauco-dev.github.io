@@ -1,0 +1,394 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 3326px;
+  position: relative;
+  margin-left: 4%;
+}
+.sign-cache-1-1 {
+  width: 110%;
+  height: 898px;
+  position: absolute;
+  left: -10%;
+  object-fit: cover;
+}
+.logo-confeitaria-sabor-removebg-preview-1 {
+  width: 126px;
+  height: 126px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  object-fit: cover;
+}
+.logo-central-com-fundo-removebg-preview-1 {
+  width: 607px;
+  height: 536px;
+  position: absolute;
+  left: 417px;
+  top: 96px;
+  object-fit: cover;
+}
+.rectangle-1 {
+  background: rgba(217, 137, 64, 0.92);
+  width: 975px;
+  height: 271px;
+  position: absolute;
+  left: 236px;
+  top: 640px;
+}
+.del-cias-que-encantam-sabores-que-apaixonam-confeitaria-sabor-o-segredo-das-melhores-mem-rias-mesa {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 329px;
+  top: 664px;
+  width: 763px;
+  height: 230px;
+}
+.sobre-n-s {
+  color: rgba(125, 73, 26, 0.92);
+  text-align: center;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 531px;
+  top: 1904px;
+  width: 330px;
+  height: 119px;
+}
+.na-confeitaria-sabor-nossa-miss-o-encantar-os-paladares-de-nossos-clientes-oferecendo-doces-e-sobremesas-que-v-o-al-m-do-sabor-criando-experi-ncias-memor-veis-em-cada-mordida-valorizamos-a-qualidade-dos-ingredientes-a-criatividade-na-elabora-o-de-nossos-produtos-e-o-compromisso-com-a-satisfa-o-de-nossos-clientes-buscamos-incessantemente-a-excel-ncia-em-tudo-o-que-fazemos-enquanto-celebramos-a-do-ura-da-vida-e-os-momentos-especiais-que-compartilhamos-ao-redor-da-mesa {
+  color: rgba(0, 0, 0, 0.85);
+  text-align: center;
+  font-family: "JosefinSans-Light", sans-serif;
+  font-size: 33px;
+  font-weight: 300;
+  position: absolute;
+  left: 258px;
+  top: 1981px;
+  width: 877px;
+  height: 301px;
+}
+.entre-em-contato-com-a-confeitaria-sabor {
+  color: rgba(125, 73, 26, 0.92);
+  text-align: center;
+  font-family: "JosefinSans-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 207px;
+  top: 2399px;
+}
+.r-1 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 323px;
+  height: 300px;
+  position: absolute;
+  left: 123px;
+  top: 1124px;
+  object-fit: cover;
+}
+.r-3 {
+  border-radius: 10px;
+  width: 323px;
+  height: 300px;
+  position: absolute;
+  left: 123px;
+  top: 1532px;
+  object-fit: cover;
+}
+.r-2 {
+  border-radius: 10px;
+  width: 323px;
+  height: 300px;
+  position: absolute;
+  left: 760px;
+  top: 1124px;
+  object-fit: cover;
+}
+._40-b-25559-b-85-b-265-e-885-f-55-ec-7-c-1-e-4-d-04-torta-lim-o-receitas-nestle-1 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 323px;
+  height: 300px;
+  position: absolute;
+  left: 760px;
+  top: 1124px;
+  object-fit: cover;
+}
+.r-4 {
+  border-radius: 10px;
+  width: 323px;
+  height: 300px;
+  position: absolute;
+  left: 760px;
+  top: 1532px;
+  object-fit: cover;
+}
+.del-cia-de-chocolate-negro {
+  color: rgba(217, 137, 64, 0.92);
+  text-align: left;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 125px;
+  top: 1046px;
+  width: 599px;
+  height: 48px;
+}
+.doces {
+  color: rgba(125, 73, 26, 0.92);
+  text-align: center;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 421px;
+  top: 959px;
+  width: 599px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bolo-red-velvet-celestial {
+  color: rgba(217, 137, 64, 0.92);
+  text-align: left;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 125px;
+  top: 1454px;
+  width: 599px;
+  height: 48px;
+}
+.th-1 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 323px;
+  height: 303px;
+  position: absolute;
+  left: 123px;
+  top: 1529px;
+  object-fit: cover;
+}
+.torta-de-lim-o-fresco {
+  color: rgba(217, 137, 64, 0.92);
+  text-align: left;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 762px;
+  top: 1046px;
+  width: 599px;
+  height: 48px;
+}
+.macarons-de-framboesa-elegantes {
+  color: rgba(217, 137, 64, 0.92);
+  text-align: left;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  position: absolute;
+  left: 762px;
+  top: 1454px;
+  width: 599px;
+  height: 48px;
+}
+.uma-tenta-o-de-chocolate-requintada-e-sofisticada-derretendo-suavemente-na-boca-uma-experi-ncia-sublime-para-os-verdadeiros-amantes-do-cacau {
+  color: rgba(63, 36, 11, 0.92);
+  text-align: right;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 469px;
+  top: 1124px;
+  width: 199px;
+  height: 300px;
+}
+.camadas-de-bolo-vermelho-macio-e-cremoso-harmonizadas-com-um-creme-de-queijo-delicadamente-doce-criando-um-deleite-celestial-para-os-sentidos {
+  color: rgba(63, 36, 11, 0.92);
+  text-align: right;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 469px;
+  top: 1532px;
+  width: 199px;
+  height: 300px;
+}
+.uma-explos-o-de-frescor-c-trico-em-cada-garfada-nossa-torta-de-lim-o-fresco-a-combina-o-perfeita-entre-do-ura-e-acidez-proporcionando-uma-experi-ncia-refrescante-e-deliciosa {
+  color: rgba(63, 36, 11, 0.92);
+  text-align: right;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1106px;
+  top: 1124px;
+  width: 199px;
+  height: 300px;
+}
+.pequenos-tesouros-de-confeitaria-nossos-macarons-de-framboesa-combinam-casquinhas-crocantes-com-recheio-suave-de-framboesa {
+  color: rgba(63, 36, 11, 0.92);
+  text-align: right;
+  font-family: "Jaldi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1106px;
+  top: 1532px;
+  width: 199px;
+  height: 300px;
+}
+.vector-1 {
+  width: 453.19px;
+  height: 39.06px;
+  position: absolute;
+  left: 1299.19px;
+  top: 1006.06px;
+  transform: translate(-458.19px, -44.06px);
+  overflow: visible;
+}
+.vector-3 {
+  width: 453.19px;
+  height: 39.06px;
+  position: absolute;
+  left: 1277.19px;
+  top: 1954.06px;
+  transform: translate(-458.19px, -44.06px);
+  overflow: visible;
+}
+.vector-5 {
+  width: 577px;
+  height: 19px;
+  position: absolute;
+  left: 1273px;
+  top: 2488px;
+  transform: translate(-582.01px, -24px);
+  overflow: visible;
+}
+.vector-2 {
+  width: 453.19px;
+  height: 39.06px;
+  position: absolute;
+  left: 145px;
+  top: 1016.06px;
+  transform: translate(-3.26px, -44.06px);
+  overflow: visible;
+}
+.vector-4 {
+  width: 453.19px;
+  height: 39.06px;
+  position: absolute;
+  left: 123px;
+  top: 1964.06px;
+  transform: translate(-3.26px, -44.06px);
+  overflow: visible;
+}
+.vector-6 {
+  width: 577px;
+  height: 29px;
+  position: absolute;
+  left: 119px;
+  top: 2496px;
+  transform: translate(-2.24px, -34px);
+  overflow: visible;
+}
+.group {
+  width: 5.15%;
+  height: 2.24%;
+  position: absolute;
+  right: 58.87%;
+  left: 35.97%;
+  bottom: 14.18%;
+  top: 83.58%;
+  overflow: visible;
+}
+.queremos-ouvir-de-voc-se-voc-tem-alguma-d-vida-sugest-o-ou-simplesmente-deseja-encomendar-nossas-del-cias-artesanais-estamos-aqui-para-ajudar-entre-em-contato-conosco-de-uma-maneira-conveniente-para-voc {
+  color: #000000;
+  text-align: center;
+  font-family: "JosefinSans-ExtraLight", sans-serif;
+  font-size: 36px;
+  font-weight: 200;
+  position: absolute;
+  left: 283px;
+  top: 2549px;
+  width: 826px;
+  height: 200px;
+}
+._77988589698 {
+  color: rgba(63, 36, 11, 0.94);
+  text-align: left;
+  font-family: "JosefinSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 619px;
+  top: 2799.06px;
+  width: 217px;
+  height: 57px;
+}
+.rectangle-3 {
+  background: rgba(125, 73, 26, 0.71);
+  width: 1440px;
+  height: 124px;
+  position: absolute;
+  left: 0px;
+  top: 3202px;
+}
+.maria-dalva-2024-todos-os-direitos-reservados {
+  color: #ffffff;
+  text-align: center;
+  font-family: "JosefinSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 220px;
+  top: 3251px;
+  width: 1000px;
+  height: 75px;
+}
+.oip-1 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 323px;
+  height: 300px;
+  position: absolute;
+  left: 760px;
+  top: 1532px;
+  object-fit: cover;
+}
+.queremos-expressar-nossa-mais-profunda-gratid-o-por-escolherem-a-confeitaria-sabor-um-privil-gio-compartilhar-nossas-cria-es-artesanais-com-voc-s-e-fazer-parte-de-momentos-especiais-em-suas-vidas {
+  color: rgba(63, 36, 11, 0.92);
+  text-align: center;
+  font-family: "JosefinSans-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 326px;
+  top: 2973px;
+  width: 704px;
+  height: 103px;
+}
