@@ -1,0 +1,406 @@
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #ffffff;
+  height: 2920px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-2 {
+  background: #ffd131;
+  width: 100%;
+  height: 123px;
+  position: absolute;
+  top: calc(50% - 1460px);
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.image-1 {
+  width: 1429.85px;
+  height: 703px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: calc(50% - 1352px);
+  object-fit: cover;
+}
+.rectangle-13 {
+  background: rgba(0, 50, 180, 0.52);
+  width: 100%;
+  height: 698.58px;
+  position: absolute;
+  top: calc(50% - 1352px);
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+  left: calc(50% - 719px);
+  top: calc(50% - 1227px);
+}
+.rectangle-5 {
+  width: 575.64px;
+  height: 358.61px;
+  position: absolute;
+  left: calc(50% - -166.85px);
+  top: calc(50% - 494px);
+  transform-origin: 0 0;
+  transform: rotate(1.255deg) scale(1, 1);
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: #0032b4;
+  border-radius: 5px;
+  width: 329px;
+  height: 240px;
+  position: absolute;
+  left: calc(50% - -237px);
+  top: calc(50% - 828px);
+}
+.rectangle-10 {
+  background: #0032b4;
+  border-radius: 5px;
+  width: 328px;
+  height: 240px;
+  position: absolute;
+  left: calc(50% - 169px);
+  top: calc(50% - 828px);
+}
+.rectangle-12 {
+  background: #0032b4;
+  border-radius: 5px;
+  width: 329px;
+  height: 240px;
+  position: absolute;
+  left: calc(50% - 575px);
+  top: calc(50% - 828px);
+}
+.solicite-o-emplacamento-no-seu-domic-lio-ou-em-sua-loja {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 526px);
+  top: calc(50% - 708px);
+}
+.emplaque-seu-ve-culo-em-nossa-unidade {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 127px);
+  top: calc(50% - 708px);
+}
+.conhe-a-nossos-planos-diferenciados-para-despahantes-e-lojistas {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -301px);
+  top: calc(50% - 718px);
+}
+.k {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 589px);
+  top: calc(50% - -250px);
+  width: 2px;
+  height: 9px;
+}
+.somos-uma-empresa-especializada-na-fabrica-o-de-placas-identificadoras-de-ve-culos-nossos-produtos-s-o-fabricados-com-as-mais-modernas-m-quinas-e-utiliza-o-de-material-de-alta-qualidade-sendo-nossos-funcion-rios-capacitados-para-atender-todas-as-exig-ncias-legais-e-de-consumo-que-garantem-a-confiabilidade-e-durabilidade-da-placa-com-a-recente-introdu-o-das-placas-no-padr-o-mercosul-demos-in-cio-a-nossas-atividades-no-estado-da-bahia-com-um-atendimento-r-pido-e-sem-burocracia-voc-solicita-sua-placa-atrav-s-de-nossa-central-do-cliente-ou-em-uma-de-nossas-unidades {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 45px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 575px);
+  top: calc(50% - 518px);
+  width: 687px;
+  height: 632px;
+}
+.home {
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  left: calc(50% - 15px);
+  top: calc(50% - 918px);
+  overflow: visible;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: calc(50% - 435px);
+  top: calc(50% - 789px);
+  overflow: visible;
+}
+.rectangle-1 {
+  width: 149.02px;
+  height: 67.41px;
+  position: absolute;
+  left: calc(50% - 79.65px);
+  top: calc(50% - 1433px);
+  transform-origin: 0 0;
+  transform: rotate(0.295deg) scale(1, 1);
+  object-fit: cover;
+}
+.finance-symbol-of-four-currencies-on-a-hand-svgrepo-com {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: calc(50% - -380px);
+  top: calc(50% - 795px);
+  overflow: hidden;
+}
+.group2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 1.55px;
+  overflow: visible;
+}
+.shop-2-svgrepo-com {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: calc(50% - 34px);
+  top: calc(50% - 794px);
+  overflow: hidden;
+}
+.group-3 {
+  width: 82.32%;
+  height: 83.33%;
+  position: absolute;
+  right: 9.34%;
+  left: 8.33%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}
+.rectangle-14 {
+  background: #0032b4;
+  width: 1397px;
+  height: 888px;
+  position: absolute;
+  left: calc(50% - 719px);
+  top: calc(50% - -90px);
+}
+.rectangle-16 {
+  width: 354px;
+  height: 318px;
+  position: absolute;
+  left: calc(50% - 652px);
+  top: calc(50% - -194px);
+  object-fit: cover;
+}
+.rectangle-17 {
+  background: #d9d9d9;
+  width: 341px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - 166px);
+  top: calc(50% - -114px);
+}
+.nossos-servi-os {
+  color: #000000;
+  text-align: center;
+  font-family: "Lemonada-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 166px);
+  top: calc(50% - -111px);
+  width: 316px;
+  height: 30px;
+}
+.placas-de-qualidade-seguran-a-em-primeiro-lugar-sua-emplacadora-de-confian-a {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 517px);
+  top: calc(50% - 1257px);
+  width: 1017px;
+  height: 209px;
+}
+.rectangle-18 {
+  background: #d9d9d9;
+  width: 421px;
+  height: 302px;
+  position: absolute;
+  left: calc(50% - 686px);
+  top: calc(50% - -560px);
+}
+.rectangle-19 {
+  width: 351px;
+  height: 318px;
+  position: absolute;
+  left: calc(50% - 166px);
+  top: calc(50% - -190px);
+  object-fit: cover;
+}
+.a-transfer-ncia-de-propriedade-de-placas-acontece-quando-o-propriet-rio-de-um-ve-culo-vende-o-carro-para-outra-pessoa-e-as-placas-do-ve-culo-precisam-ser-transferidas-para-o-novo-propriet-rio-este-processo-envolve-a-atualiza-o-dos-documentos-e-registros-do-ve-culo-junto-aos-rg-os-de-tr-nsito {
+  color: #000000;
+  text-align: center;
+  font-family: "Lemonada-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 684px);
+  top: calc(50% - -578px);
+  width: 418px;
+  height: 20px;
+}
+.rectangle-20 {
+  background: #d9d9d9;
+  width: 378px;
+  height: 305px;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: calc(50% - -551px);
+}
+.a-vistoria-veicular-um-procedimento-obrigat-rio-para-verificar-as-condi-es-gerais-de-um-ve-culo-garantindo-sua-seguran-a-conformidade-com-as-normas-de-tr-nsito-e-documenta-o-em-dia {
+  color: #000000;
+  text-align: center;
+  font-family: "Lemonada-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 142px);
+  top: calc(50% - -571px);
+  width: 341px;
+  height: 282px;
+}
+.rectangle-21 {
+  width: 358px;
+  height: 318px;
+  position: absolute;
+  left: calc(50% - -283px);
+  top: calc(50% - -194px);
+  object-fit: cover;
+}
+.rectangle-22 {
+  background: #d9d9d9;
+  width: 374px;
+  height: 305px;
+  position: absolute;
+  left: calc(50% - -283px);
+  top: calc(50% - -557px);
+}
+.o-ipva-um-imposto-estadual-anual-cobrado-dos-propriet-rios-de-ve-culos-com-base-no-valor-venal-do-ve-culo-os-recursos-arrecadados-s-o-destinados-ao-estado-e-munic-pio-podendo-ser-aplicados-em-reas-como-sa-de-educa-o-e-seguran-a-p-blica {
+  color: #000000;
+  text-align: center;
+  font-family: "Lemonada-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -283px);
+  top: calc(50% - -564px);
+  width: 374px;
+  height: 298px;
+}
+.rectangle-23 {
+  background: #ffd131;
+  width: 1398px;
+  height: 100px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: calc(50% - -971px);
+}
+.nossa-unidade {
+  color: #000000;
+  text-align: center;
+  font-family: "Lemonada-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 233px);
+  top: calc(50% - -978px);
+  width: 466px;
+  height: 100px;
+}
+.endere-o-av-santa-marta-centro-vit-ria-da-conquista-ba-45000-785-telefone-77-98805-9817 {
+  color: #000000;
+  text-align: center;
+  font-family: "LexendExa-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 684px);
+  top: calc(50% - -1148px);
+  width: 1362px;
+  height: 230px;
+}
+.endere-o-av-santa-marta-centro-vit-ria-da-conquista-ba-45000-785-telefone-77-98805-9817-span {
+  color: #000000;
+  font-family: "LexendExa-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.endere-o-av-santa-marta-centro-vit-ria-da-conquista-ba-45000-785-telefone-77-98805-9817-span2 {
+  color: #000000;
+  font-family: "LexendExa-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+}
+.endere-o-av-santa-marta-centro-vit-ria-da-conquista-ba-45000-785-telefone-77-98805-9817-span3 {
+  color: #000000;
+  font-family: "LexendExa-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.endere-o-av-santa-marta-centro-vit-ria-da-conquista-ba-45000-785-telefone-77-98805-9817-span4 {
+  color: #000000;
+  font-family: "LexendExa-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+}
+.endere-o-av-santa-marta-centro-vit-ria-da-conquista-ba-45000-785-telefone-77-98805-9817-span5 {
+  color: #000000;
+  font-family: "LexendExa-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.endere-o-av-santa-marta-centro-vit-ria-da-conquista-ba-45000-785-telefone-77-98805-9817-span6 {
+  color: #000000;
+  font-family: "LexendExa-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+}
+.rectangle-24 {
+  background: #d9d9d9;
+  width: 100%;
+  height: 69px;
+  position: absolute;
+  top: calc(50% - -1391px);
+}
+.thais-vanessa-lima-do-nascimento-2024-todos-os-direitos-reservados {
+  color: #000000;
+  text-align: center;
+  font-family: "AbyssinicaSil-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 337px);
+  top: calc(50% - -1413px);
+}
