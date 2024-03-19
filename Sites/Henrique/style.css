@@ -1,0 +1,388 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 3521px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  width: 75px;
+  height: 77px;
+  position: absolute;
+  left: calc(50% - 665px);
+  top: calc(50% - 1727.5px);
+}
+.rectangle-2 {
+  background: rgba(66, 29, 13, 0.52);
+  width: 1440px;
+  height: 919px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: calc(50% - 1760.5px);
+}
+.rectangle-6 {
+  width: 1440px;
+  height: 1184px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: calc(50% - 91.5px);
+  overflow: visible;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 621px;
+  height: 172px;
+  position: absolute;
+  left: calc(50% - 280px);
+  top: calc(50% - 1401.5px);
+}
+.rectangle-4 {
+  background: #d9d9d9;
+  width: 894px;
+  height: 105px;
+  position: absolute;
+  left: calc(50% - 461px);
+  top: calc(50% - 1367.5px);
+}
+.rectangle-5 {
+  background: rgba(157, 104, 54, 0.52);
+  width: 937px;
+  height: 304px;
+  position: absolute;
+  left: calc(50% - 443px);
+  top: calc(50% - 644.5px);
+}
+.rectangle-29 {
+  background: rgba(157, 104, 54, 0.52);
+  width: 937px;
+  height: 304px;
+  position: absolute;
+  left: calc(50% - 411px);
+  top: calc(50% - 618.5px);
+}
+.rectangle-7 {
+  background: rgba(0, 0, 0, 0.83);
+  width: 261px;
+  height: 399px;
+  position: absolute;
+  left: calc(50% - 567px);
+  top: calc(50% - -268.5px);
+}
+.download-1 {
+  width: 241px;
+  height: 392px;
+  position: absolute;
+  left: calc(50% - 539px);
+  top: calc(50% - -256.5px);
+  object-fit: cover;
+}
+.rectangle-21 {
+  background: #000000;
+  width: 266px;
+  height: 384px;
+  position: absolute;
+  left: calc(50% - -324px);
+  top: calc(50% - -118.5px);
+}
+.rectangle-8 {
+  opacity: 0.699999988079071;
+  width: 147px;
+  height: 33px;
+  position: absolute;
+  left: calc(50% - 461px);
+  top: calc(50% - -691px);
+  overflow: visible;
+}
+.oip-1 {
+  width: 266px;
+  height: 395px;
+  position: absolute;
+  left: calc(50% - -340px);
+  top: calc(50% - -140.5px);
+  object-fit: cover;
+}
+.rectangle-20 {
+  background: rgba(157, 104, 54, 0.52);
+  width: 394px;
+  height: 38px;
+  position: absolute;
+  left: calc(50% - 290px);
+  top: calc(50% - 28.5px);
+}
+.rectangle-11 {
+  width: 265px;
+  height: 34px;
+  position: absolute;
+  left: calc(50% - 362px);
+  top: calc(50% - -1297.5px);
+  overflow: visible;
+}
+.rectangle-32 {
+  width: 258px;
+  height: 38px;
+  position: absolute;
+  left: calc(50% - 373px);
+  top: calc(50% - -1280.5px);
+  overflow: visible;
+}
+.rectangle-13 {
+  width: 281.5px;
+  height: 44px;
+  position: absolute;
+  left: calc(50% - -90px);
+  top: calc(50% - -1293.5px);
+  overflow: visible;
+}
+.rectangle-33 {
+  width: 304.5px;
+  height: 44px;
+  position: absolute;
+  left: calc(50% - -109px);
+  top: calc(50% - -1302.5px);
+  overflow: visible;
+}
+.rectangle-16 {
+  background: rgba(137, 83, 33, 0.7);
+  width: 844px;
+  height: 74px;
+  position: absolute;
+  left: calc(50% - 440px);
+  top: calc(50% - -1149.5px);
+}
+.rectangle-17 {
+  background: #d9d9d9;
+  width: 1440px;
+  height: 107px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: calc(50% - -1653.5px);
+}
+.rectangle-30 {
+  width: 244px;
+  height: 61px;
+  position: absolute;
+  left: calc(50% - 547px);
+  top: calc(50% - -168px);
+  overflow: visible;
+}
+.henrique-2024-todos-direitos-reservados {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 367px);
+  top: calc(50% - -1687.5px);
+  width: 699px;
+  height: 40px;
+}
+.rectangle-18 {
+  background: rgba(157, 104, 54, 0.52);
+  width: 260px;
+  height: 57px;
+  position: absolute;
+  left: calc(50% - 87px);
+  top: calc(50% - 28.5px);
+}
+.rectangle-31 {
+  background: #000000;
+  width: 316px;
+  height: 480px;
+  position: absolute;
+  left: calc(50% - 138px);
+  top: calc(50% - -454.5px);
+}
+.sebo-rio-de-janeiro-beta-de-aquarius-768-x-1024-1 {
+  width: 1454px;
+  height: 919px;
+  position: absolute;
+  left: calc(50% - 734px);
+  top: calc(50% - 1760.5px);
+  object-fit: cover;
+}
+.rectangle-26 {
+  background: rgba(75, 42, 10, 0.52);
+  width: 1440px;
+  height: 919px;
+  position: absolute;
+  left: calc(50% - 734px);
+  top: calc(50% - 1760.5px);
+}
+.rectangle-28 {
+  border-radius: 0px;
+  width: 241px;
+  height: 85px;
+  position: absolute;
+  left: calc(50% - 137px);
+  top: calc(50% - 1283.5px);
+  overflow: visible;
+}
+.sebo {
+  color: #72574c;
+  text-align: left;
+  font-family: "LilyScriptOne-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 65px);
+  top: calc(50% - 1266.5px);
+}
+.rectangle-27 {
+  background: #ffffff;
+  border-radius: 100px;
+  width: 894px;
+  height: 105px;
+  position: absolute;
+  left: calc(50% - 461px);
+  top: calc(50% - 1367.5px);
+}
+.color-vintage-books-shop-emblem-3-1 {
+  border-radius: 1000px;
+  width: 181.42px;
+  height: 167.83px;
+  position: absolute;
+  left: calc(50% - 664.92px);
+  top: calc(50% - 1711.5px);
+  transform-origin: 0 0;
+  transform: rotate(0.37deg) scale(1, 1);
+  object-fit: cover;
+}
+.classics {
+  color: #000000;
+  text-align: center;
+  font-family: "LifeSavers-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 196px);
+  top: calc(50% - 73.5px);
+  width: 346px;
+  height: 74px;
+}
+.r-79-99 {
+  color: #000000;
+  text-align: center;
+  font-family: "LifeSavers-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 484px);
+  top: calc(50% - -679.5px);
+  width: 119px;
+  height: 38px;
+}
+.oip-2 {
+  width: 316px;
+  height: 490px;
+  position: absolute;
+  left: calc(50% - 115px);
+  top: calc(50% - -422.5px);
+  object-fit: cover;
+}
+.r-65-78 {
+  color: #000000;
+  text-align: center;
+  font-family: "LifeSavers-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -406px);
+  top: calc(50% - -556.5px);
+  width: 139px;
+  height: 44px;
+}
+.vector {
+  width: 1212.27px;
+  height: 1751.94px;
+  position: absolute;
+  left: calc(50% - 593.58px);
+  top: calc(50% - 1356.75px);
+  overflow: visible;
+}
+.r-51-90 {
+  color: #000000;
+  text-align: center;
+  font-family: "LifeSavers-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -55px);
+  top: calc(50% - -954.5px);
+  width: 275px;
+  height: 61px;
+}
+.frame {
+  width: 48px;
+  height: 50px;
+  position: absolute;
+  left: calc(50% - 435px);
+  top: calc(50% - -1281.5px);
+  overflow: visible;
+}
+._77-999148578 {
+  color: #000000;
+  text-align: center;
+  font-family: "LifeSavers-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 381px);
+  top: calc(50% - -1287.5px);
+  width: 225px;
+  height: 26px;
+}
+.formas-de-contato {
+  color: #000000;
+  text-align: center;
+  font-family: "LifeSavers-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 437px);
+  top: calc(50% - -1149.5px);
+  width: 809px;
+  height: 46px;
+}
+.books-shop-167 {
+  color: #000000;
+  text-align: center;
+  font-family: "LifeSavers-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -87px);
+  top: calc(50% - -1293.5px);
+  width: 271px;
+  height: 29px;
+}
+.whats-app-logo {
+  width: 68px;
+  height: 43px;
+  position: absolute;
+  left: calc(50% - 422px);
+  top: calc(50% - -1387.5px);
+  overflow: hidden;
+}
+.instagram-logo {
+  width: 59px;
+  height: 60px;
+  position: absolute;
+  left: calc(50% - -27px);
+  top: calc(50% - -1280.5px);
+  overflow: hidden;
+}
+.group {
+  width: 81.35%;
+  height: 83.33%;
+  position: absolute;
+  right: 8.48%;
+  left: 10.17%;
+  bottom: 8.34%;
+  top: 8.33%;
+  overflow: visible;
+}
